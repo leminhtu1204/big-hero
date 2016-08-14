@@ -13,7 +13,8 @@
         'shuffleOptions': false,
         'showClock': false,
         'showPager': true,
-        'theme': 'none'
+        'theme': 'none',
+        'isShowResult': true
     }
 
     $scope.goTo = function (index) {
